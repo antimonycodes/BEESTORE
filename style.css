@@ -65,7 +65,8 @@
 }
 
 .logo span {
-  color: hotpink;
+  /* color: hotpink; */
+  color: #00ff00;
 }
 
 .logo::after {
